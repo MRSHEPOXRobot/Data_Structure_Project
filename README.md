@@ -1,2 +1,2 @@
 # Data_Structure_Project
-## Our new project on github
+## Notes should be followed 
