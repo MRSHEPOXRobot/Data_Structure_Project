@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub_Project\\Data_Structure_Project\\Function recursion.CPP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC430C4-A631-4DD4-9FB6-5C13AB6F6B02}|Function recursion.CPP\\Function recursion.CPP.vcxproj|D:\\GitHub_Project\\Data_Structure_Project\\Function recursion.CPP\\Function recursion.CPP\\Function recursion.CPP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4BC430C4-A631-4DD4-9FB6-5C13AB6F6B02}|Function recursion.CPP\\Function recursion.CPP.vcxproj|solutionrelative:Function recursion.CPP\\Function recursion.CPP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Function recursion.CPP.cpp",
+              "DocumentMoniker": "D:\\GitHub_Project\\Data_Structure_Project\\Function recursion.CPP\\Function recursion.CPP\\Function recursion.CPP.cpp",
+              "RelativeDocumentMoniker": "Function recursion.CPP\\Function recursion.CPP.cpp",
+              "ToolTip": "D:\\GitHub_Project\\Data_Structure_Project\\Function recursion.CPP\\Function recursion.CPP\\Function recursion.CPP.cpp",
+              "RelativeToolTip": "Function recursion.CPP\\Function recursion.CPP.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA3wBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-04T04:40:01.815Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
